@@ -1,1 +1,1 @@
-http://lifx-nodeserver.readthedocs.io/
+http://st-nodeserver.readthedocs.io/en/latest/

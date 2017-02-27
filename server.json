@@ -1,18 +1,18 @@
 {
-    "name": "LIFX",
-    "docs": "https://www.lifx.com",
+    "name": "ST Nodeserver",
+    "docs": "http://st-nodeserver.readthedocs.io/en/latest/",
     "type": "python",
-    "executable": "polylifx.py",
-    "description": "Add LIFX control to the ISY994.",
-    "notice": "\"LIFX\" is trademarked., see http://www.lifx.com for more information. This Node Server is neither developed by nor endorsed by LIFX.",
+    "executable": "st-nodeserver.py",
+    "description": "Add STMicro IPSO Sensor data to the ISY994.",
+    "notice": "",
     "credits": [
         {
-            "title": "polylifx: A Python library for LIFX",
+            "title": "st-nodeserver: A Python library for ST NodeServers",
             "author": "James Milne (Einstein.42)",
-            "version": "0.1.5",
-            "date": "June 30, 2016",
-            "source": "https://github.com/Einstein42/lifx-nodeserver",
-            "license": "https://github.com/Einstein42/lifx-nodeserver/blob/master/LICENSE"
+            "version": "0.0.1",
+            "date": "March 01, 2017",
+            "source": "https://github.com/Einstein42/st-nodeserver",
+            "license": "https://raw.githubusercontent.com/Einstein42/st-nodeserver/master/LICENSE"
         }
     ]
 }

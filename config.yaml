@@ -1,0 +1,4 @@
+# Address put the Leshan server address or hostname, port should be 8080 typically
+server:
+    address: 10.0.0.75
+	port: 8080
