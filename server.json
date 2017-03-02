@@ -2,7 +2,7 @@
     "name": "ST Nodeserver",
     "docs": "http://st-nodeserver.readthedocs.io/en/latest/",
     "type": "python",
-    "executable": "st-nodeserver.py",
+    "executable": "st_nodeserver.py",
     "description": "Add STMicro IPSO Sensor data to the ISY994.",
     "notice": "",
     "credits": [
